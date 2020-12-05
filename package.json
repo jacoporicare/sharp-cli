@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "arg": "^5.0.0",
     "esm": "^3.2.25",
     "sharp": "^0.26.3"
   }
