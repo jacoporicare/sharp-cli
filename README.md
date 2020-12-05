@@ -1,5 +1,7 @@
 # sharp-cli
 
+Simple CLI for [sharp](https://sharp.pixelplumbing.com/).
+
 ## Installation
 
 Git clone.
